@@ -1,0 +1,1 @@
+1. poceten fajl za ova moe vezbanje git.
